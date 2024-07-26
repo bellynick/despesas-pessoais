@@ -1,0 +1,15 @@
+table, tr, td{
+    border: solid 1px rgb(255, 163, 209);
+}
+
+.largura{
+    background-color: rgb(from color r g b);
+}
+
+#largColuna{
+    width: 200px;
+}
+
+body{
+    font-family: Geneva, Verdana, sans-serif;
+}
